@@ -1,0 +1,15 @@
+a prefeitura de uma cidade fez uma pesquisa entre seus habitantes,coletando seus 
+dadeos sobre o salarios e numero de filhos das familias da cidades 
+a) total de familias que respondem a pesquisa ;
+b)media do salario da população ;
+c)media de numero de filhos
+d)maior salario 
+e)menor salario
+
+crie um menu com as seguintes opições.
+codigo | descrição
+1| adicionar familia
+2| exibir resultados 
+3| sair 
+ao adicionar uma familia,deve-se limpar o terminal e apresentar o menu novamente.
+1.
